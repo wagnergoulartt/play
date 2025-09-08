@@ -1,0 +1,13 @@
+{
+    "playlists": {
+        "TESTE": [
+            "FUNK\/Bonde dos Pretinhos - Michele.mp3",
+            "FUNK\/Bonde das Tchutchucas - Catuca.mp3",
+            "FUNK\/Bonde dos Pretinhos - Michele.mp3"
+        ],
+        "teste 2": [
+            "FUNK\/Bonde dos Pretinhos - Catuca.mp3"
+        ]
+    },
+    "playlistSelecionada": "TESTE"
+}
